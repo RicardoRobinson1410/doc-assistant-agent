@@ -1,0 +1,12 @@
+# DocDacity Document Assistant
+
+langchain>=0.2.0
+langgraph>=0.2.39
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+print-color>=0.4.6
+pytest>=8.0.0
+pytest-cov>=5.0.0
